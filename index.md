@@ -34,8 +34,8 @@
   <img src="./img/관련이미지1.jpg">
   <img src="./img/관련이미지2.jpg">
 - 동영상
-  [![](./img/그림1.png)](https://youtu.be/w_Gka6e31Es)
-  [![](./img/그림2.png)](https://youtu.be/w_Gka6e31Es)
+  [![](./img/그림1.jpg)](https://youtu.be/w_Gka6e31Es)
+  [![](./img/그림2.jpg)](https://youtu.be/w_Gka6e31Es)
 
 <br><br>
 
