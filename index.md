@@ -107,11 +107,11 @@ Unity를 활용하여 마우스를 통해 조작이 가능한 PC기반의 게임
 
 |연번|종류|OBJ 이름|OBJ 영문명|사용처|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|1|캐릭터|플레이어/상대|Player/Opponent|공통|<img src="./img/축구장.png" width="500">|
-|2|카드|카드|Cards|공통|<img src="./img/축구장.png" width="500">|
-|3|카드|플레이어 핸드/상대 핸드|PlayerHand/OpponetHand|공통|<img src="./img/축구장.png" width="500">|
-|4|카드|플레이어 덱/상대 덱|PlayerDeck/OpponentDeck|공통|<img src="./img/축구장.png" width="500">|
-|5|게임판|필드|Field|공통|<img src="./img/축구장.png" width="500">|
+|1|캐릭터|플레이어/상대|Player/Opponent|공통|<img src="./img/image01.png" heigth="100">|
+|2|카드|카드|Cards|공통|<img src="./img/image02.png" heigth="100"> <img src="./img/image03.png" heigth="100">|
+|3|카드|플레이어 핸드/상대 핸드|PlayerHand/OpponetHand|공통|<img src="./img/image04.png" heigth="100">|
+|4|카드|플레이어 덱/상대 덱|PlayerDeck/OpponentDeck|공통|<img src="./img/image05.png" heigth="100">|
+|5|게임판|필드|Field|공통|<img src="./img/image06.png" heigth="100">|
 |6|게임매니저|게임매니저|GameManager|공통|
 
 <br>
