@@ -296,10 +296,20 @@ Unity를 활용하여 마우스를 통해 조작이 가능한 PC기반의 게임
  - 게임종료 팝업이 띄워지고 클릭을 하면 타이틀화면으로 돌아간다.
 ## 2. 시간별 흐름도 flowchart<a name='시간흐름도'></a>
 
+<img src="./img/시간별흐름도.png">
+
 ## 3. 이벤트에 대한 흐름도<a name='이벤트흐름도'></a>
+
+<img src="./img/이벤트에따른흐름도.png">
 
 ## 4. 용어정리<a name='용어정리'></a>
 
+<img src="./img/용어정리.png">
+
 # [스토리 보드]<a name='스토리보드'></a>
 
+<img src="./img/스토리보드.png">
+
 # [Github Blog URL]<a name='URL'></a>
+
+https://joshiii1378.github.io
